@@ -1,0 +1,120 @@
+{
+  "WBUI2": {
+    "settings": {
+      "openbutton": 0,
+      "hideicon": false,
+      "hideiconafter": 60,
+      "iconurl": "https://i.imgur.com/GPZIhoZ.png",
+      "disableicontext": true,
+      "iconposition": 0,
+      "icontextcolor": 0,
+      "openonstart": true,
+      "openonstartonlynewplayers": false,
+      "updateinterval": 24
+    },
+    "tabs": [
+      {
+        "layout": 3,
+        "buttontext": "<RichColor Color=\"1,1,0,1\">NOTICIA SEMANAL</>",
+        "imageurl": "https://i.imgur.com/awXbdgN.jpeg",
+        "content": [
+          {
+            "title": "<RichColor Color=\"1,1,0,1\">MIGRACION DE MODS</>",
+            "text": "<TextStyle.Green>RESULTADO DE LA ENCUESTA:</>\n\n<RichColor Color=\"0,1,1,1\">Como muchos ya sabran, y otros no (recomiendo ingresar y participar en discord), hace unos dias realizamos una encuesta para ver si presindiamos de algunos mods en el cluster de Historias y Mates para mejorar la estabilidad y el juego de los usuarios con PCs de bajos recursos y usuarios de consola alivianandoles la carga. Esto salio votado en \"SI\" casi en un pleno 100%.</>\n\nPOR LO QUE COMUNICAMOS QUE LA MIGRACION <RichColor Color=\"0,1,0,1\">SE LLEVO A CABO</> ESTA MADRUGADA DEL <RichColor Color=\"1,1,0,1\">07/07/26</> CASI CON UN EXITO TOTAL.\n\n<RichColor Color=\"1,1,0,1\">A LOS JUGADORES QUE ABRIERON SU TICKET PARA EL PREMIO DE RESARCIMIENTO Y A LOS QUE NO: </>\n\nSE LES HABILITO UN NUEVO KIT EN LA SECCION \"CANJEAR\" DE LA TIENDA QUE LES ENTREGARA POR UNICA VEZ UN <RichColor Color=\"1,0.5,0,1\">\"KIT DRAGONCITO\"</> QUE LES HABILITA UNA PAREJA CRIABLE DE LOS <RichColor Color=\"0,1,0,1\">NUEVOS DRAGONES ZALDRIR</> EN SU ESTADO ADULTO Y <RichColor Color=\"0,1,1,1\">3500 PUNTOS DE TIENDA</> A TODOS! PUEDEN RECLAMARLO A PARTIR DE <RichColor Color=\"1,1,0,1\">YA</>!!!!!"
+          },
+          {
+            "title": "<TextStyle.Red>NO TODO ES COLOR DE ROSAS!</>",
+            "text": "PROBLEMAS CON LA PURGA DE MODS:\n\nAqui les comento que durante la eliminacion de estos mods se me fue la mano (<RichColor Color=\"0,1,1,1\">sin querer</>, disculpen el inconveniente) y elimine el mod <RichColor Color=\"1,0,1,1\">BigAL's: Carcha Rework</> que no estaba planificado!\n\n<TextStyle.Red>Esto hizo que TODOS los Carchas que no hayan sido ENTREGADOS POR MI por alguna compra de RANGO (sean crias de estos mismos o tameados en el server) hayan quedado obsoletos y sin siquiera poderlos sacar de sus CRYOS.</>\n\n<TextStyle.Green>AFORTUNADAMENTE LAS CRYOS Y EL NOMBRE DE SUS DINOS PERMANECE POR LO QUE LES PIDO HAGAN UNA SCREENSHOT LOS AFECTADOS Y ME LA ENVIEN EN UN TICKET DE DISCORD PARA PODER DEVOLVERLES SUS CARCHAS EN EL MENOR TIEMPO POSIBLE</>\n\n<RichColor Color=\"1,1,0,1\">ACLARACION: </>Esto es lo que paso con los dinos variante Z (Ya sean Shinys o variante Z normal) por lo cual se abrio la votacion y se dio por entendido que sabian que si se eliminaba el mod se eliminaban sus dinos variante Z, al igual que los dragones del mod Draconic y sus estructuras. Hubo avisos de sobra recomendando cambiar sus estructuras de dichos mods y enviar tickets para recibir el resarcimiento por los dinos, visto que solo 2 (DOS) personas enviaron su ticket decidi que TODOS obtengan el KIT (beneficiando a nuevos jugadores tambien), Aqui no deberia haber reclamo alguno. Sim embargo... <TextStyle.Green>si tenian ya toda una linea de crianza con sus variantes Z, pueden abrir ticket y se les entregara</> <RichColor Color=\"1,0,1,1\">UN MACHO Y UNA HEMBRA VANILLA</> <TextStyle.Green>de esa linea. Espero los Tickets!</>"
+          },
+          {
+            "title": "<RichColor Color=\"1,0,0,1\">LISTA DE MODS REMOVIDOS</>",
+            "text": "<TextStyle.Red>SE REMOVIERON DEL CLUSTER LOS SIGUIENTES MODS:</>\n\n<TextStyle.Red>→ Draconic Chronicles</>\n<TextStyle.Red>→ Z-Dino Variants</>\n<TextStyle.Red>→ Invasive Tek Species (Con respecto a este ultimo, si bien no figuraba en la encuesta, habia sido un mod provisorio cuando arranco el Historias y Mates debido a que no contabamos con mapas que tengan dinos tek. Actualmente estamos incorporando un Plugin -Que no afecta en el rendimiento de los clientes porque es solo parte del server- con enemigos ELITE y JEFES DE MUNDO mucho mejor y sin afectarles el rendimiento a ustedes o la carga extra de mods)</>\n\n<TextStyle.Green>SE INCORPORO EL SIGUIENTE MOD AL CLUSTER:</>\n\n<TextStyle.Green>→ Dragon's Kingdom</> -Un mod mucho menos pesado que los anteriores y que agrega, un nuevo Dragon con sus diferentes TIERS- GUIA MUY PRONTO EN LA WEB\n\n<RichColor Color=\"1,0,1,1\">WEB:</> <RichColor Color=\"1,1,0,1\">https://historiasymates.online/</>"
+          }
+        ]
+      },
+      {
+        "layout": 4,
+        "buttontext": "<RichColor Color=\"0.5,0,1,1\">INFO CLUSTER</>",
+        "imageurl": "https://i.imgur.com/awXbdgN.jpeg",
+        "content": [
+          {
+            "title": "<RichColor Color=\"1,1,0,1\">¡CUMPLIMOS 1 MES ONLINE!</>",
+            "text": "<TextStyle.Yellow>¡Y lo festejamos a lo grande!</>\n\n<TextStyle.Orange>NUEVO HOST DEDICADO — 128 GB DE RAM</>\n\n¡La migración fue completada con éxito!\n\n→ Sin pérdida de personajes ni progreso.\n→ Seguimos jugando con normalidad.\n→ Aprovechando la migración del servidor se implementaron muchas mejoras dentro del juego, sumamos un nuevo mapa y mejoramos el discord, pegate una vuelta para conocer mas novedades.\n\n<TextStyle.Green>⚠ NOTA: Nos complace anunciar que estamos en una etapa de crecimiento! Implementamos muchísimas mejoras dentro del juego, en la pagina web del server y en el discord de la comunidad! Seguimos creciendo juntos!</>"
+          },
+          {
+            "title": "<RichColor Color=\"0,1,0,1\">¡NUEVOS MAPAS! SE SUMAN A HyM</>",
+            "text": "Amissa ............. <TextStyle.Green>OPERATIVO</>\nTheIsland .......... <TextStyle.Green>OPERATIVO</>\nRagnarok ........... <TextStyle.Green>OPERATIVO</>\nExtinction ......... <TextStyle.Green>OPERATIVO</>\nAstraeos ........... <TextStyle.Green>OPERATIVO</>\nValguero ........... <TextStyle.Green>OPERATIVO</>\nLost Colony ........ <TextStyle.Green>OPERATIVO</>\n\n<TextStyle.Yellow>★ GENESIS 1 ..... ¡Desde el primer dia!</>\n\nSi encontrás algún error, reportalo al staff. ¡Estaremos atentos!"
+          },
+          {
+            "title": "<RichColor Color=\"0,0.8,1,1\">MEJORAS TÉCNICAS</>",
+            "text": "<TextStyle.LightBlue>Server Manager Profesional</>\nLicencia paga (6 meses). Actualizaciones automáticas, reinicios seguros, backups avanzados, gestión de RAM y avisos programados.\n\n<TextStyle.LightBlue>Nuevo Casino en TheIsland</>\nComo muchos antiguos saben, nuestro casino en Extinction era provisional. Ya trasladamos sus instalaciones a TheIsland, en la Isla Hervivora, podes viajar con el mando de teleport, hay TP publico. Feliz jornada de timba.\n\n<TextStyle.LightBlue>También la timba llego a Discord</>\nNos complace anunciar también que adquirimos un plugin premium de timba para nuestro discord! Desde los canales específicos podrás consultar tu saldo (si, es el mismo que tus puntos in-game), reclamar bonus diario de puntos e incluso tienes una larga lista de juegos en solitario y multijugador para gastar tus puntos... o multiplicarlos!\n\n<TextStyle.LightBlue>Infraestructura Windows Nativo</>\n¡Más sólido que nunca!"
+          },
+          {
+            "title": "<RichColor Color=\"1,0.4,0.7,1\">NUEVA IDENTIDAD VISUAL</>",
+            "text": "Gracias a <TextStyle.Orange>@Cuack</> (@artkca), artista de la comunidad, tenemos nuevo logo hecho a mano. ¡Sin IA, con identidad propia y ese toque artesanal que nos representa!\n\n→ Tiers de dinos rediseñados con estética ARK\n→ Imágenes de membresías con diseño renovado\n→ ¡Y sigue trabajando en más!\n\nGracias también a <TextStyle.Orange>@luni_tj</> (Luna) y su equipo de marketing, que nos ayudaran a construir contenido hecho por y para la comunidad. ❤"
+          }
+        ]
+      },
+      {
+        "layout": 3,
+        "buttontext": "<RichColor Color=\"0.4,1,0.4,1\">EVENTOS Y MAS</>",
+        "imageurl": "https://i.imgur.com/awXbdgN.jpeg",
+        "content": [
+          {
+            "title": "CAZA CROMÁTICA SEMANAL",
+            "text": "<TextStyle.Yellow>¡ESTA SEMANA: DODOS PINK!</>\n\nEsta semana los Dodos salvajes aparecen con paleta especial <RichColor Color=\"0.95,0.19,0.47,1\">PINK</>.\n\nTu misión: encontrar el que tenga más regiones en color <RichColor Color=\"1,0,1,1\">MAGENTA (6)</> y domesticarlo.\n\n→ <TextStyle.Yellow>¡Hay premio para el ganador!</>\nEl dino y la paleta cambian cada semana.\n\n→ Reglas completas en el canal:\n<TextStyle.Green>casería-cromática</>\n\n<TextStyle.Orange>¡Suerte a todos los cazadores!</>"
+          },
+          {
+            "title": "<RichColor Color=\"1,0.12,0.45,1\">NUEVO CASINO HISTORIAS Y MATES</>",
+            "text": "No nos gustó como quedó el casino anterior, así que gracias a la ayuda de <TextStyle.Orange>@Cuack</> lo rediseñamos desde cero.\n\n<TextStyle.Yellow>¡Gran inauguración!</>\n\n→ Ubicación: <RichColor Color=\"0,0.65,0.90.75,0.75\">THE ISLAND</>\n<RichColor Color=\"0,1,0,1\">(Zona Isla Hervívora)</>\n\n<RichColor Color=\"1,0.45,0.70,1\">PODES VIAJAR CON EL CONTROL DEL TELEPORT, HAY TP PUBLICO!</>\n\n<TextStyle.Orange>¡El modo timba llegó para quedarse!</>"
+          },
+          {
+            "title": "<RichColor Color=\"0.4,0.6,1,1\">MEJORAS EN DISCORD</>",
+            "text": "Mejoras que tal vez no notaste:\n\n→ Canales de voz con estado en tiempo real de cada mapa\n→ #estado-del-servidor actualizado al instante\n→ Nuevos canales, recategorización y más estética\n\n<TextStyle.Yellow>¡NUEVO! Canal #bot-menu</>\nVinculá tu personaje con tu Discord:\n\n→ Kickear tu personaje si quedás atascado\n→ Reclamar puntos diariamente\n→ Registrar tu cumpleaños\n→ Ver tu tiempo jugado e info de cuenta\n<TextStyle.Green>¡Y mucho más que se viene!</>\n\n<TextStyle.Yellow>¡NUEVO! Canal #casino-billetera</>\nConsulta el estado de tus finanzas y reclama puntos diarios:\n\n→ Consulta tus puntos de juego directo desde discord\n→ Revisa tu economia\n→ Completa logros\n→ Juga juegos de azar directo desde nuestro discord en la nueva categoria <RichColor Color=\"1,0,1,1\">\"Casino HyM\"</>\n<TextStyle.Green>¡Y mucho más!!!!</>"
+          }
+        ]
+      },
+      {
+        "layout": 3,
+        "buttontext": "<RichColor Color=\"1,0.5,0,1\">NUEVOS MAPAS</>",
+        "imageurl": "https://i.imgur.com/awXbdgN.jpeg",
+        "content": [
+          {
+            "title": "GENESIS 1 - DESDE EL PRIMER DIA!",
+            "text": "<RichColor Color=\"0.3,0.8,1,1\">Genesis Ascended Part 1</> llega a HyM desde el día del lanzamiento oficial.\n\nLa simulación vuelve renovada, con sus biomas clásicos y una gran expansión hacia la aventura marítima junto a <RichColor Color=\"0,1,1,1\">Tides of Fortune</>.\n\n<RichColor Color=\"1,0.8,0,1\">Destacados:</>\n- Océanos enormes con nuevas físicas de agua.\n- Barcos personalizables y combate naval.\n- Islas, fortalezas y tesoros por descubrir.\n- Palaeoctopus, una amenaza digna del fondo del mar.\n- Tidepup, un nuevo companion pensado para acompañarte en tus viajes.\n\n<RichColor Color=\"0,1,0.5,1\">Importante:</>\nDurante los primeros 10 días no se podrán transferir dinos ni items hacia Genesis 1. \nSí podrán ingresar personajes, y sí se podrá transferir desde Genesis 1 hacia otros mapas.\n\nPrepará tu tripulación, pirata. La simulación se rompe y el mar llama."
+          },
+          {
+            "title": "<TextStyle.Red>LOST COLONY</>",
+            "text": "<RichColor Color=\"1,0.3,0.3,1\">Lost Colony</> te lleva a una ARK más salvaje, peligrosa y marcada por el misterio de Arat Prime.\n\n<RichColor Color=\"1,0.8,0,1\">Destacados:</>\n- Ossidon: una bestia colosal ligada al frío, la fuerza bruta y el Red Element.\n- Desmodus: el murciélago vampírico vuelve como criatura clave para exploración, movilidad y Blood Packs.\n- Nuevas zonas hostiles para explorar, farmear y sobrevivir.\n- Nueva progresión de ascensión con una batalla final épica.\n\n<RichColor Color=\"0,1,0.8,1\">Prepará tu equipo, tus dinos y tus mejores estrategias.</>\nLost Colony no es solo otro mapa: es una prueba para survivors que buscan verdadero desafío."
+          },
+          {
+            "title": "<TextStyle.Green>VALGUERO</>",
+            "text": "<RichColor Color=\"0,1,0.5,1\">Valguero Ascended</> llega <RichColor Color=\"1,0,1,1\">Historias y Mates</> con biomas enormes, acantilados blancos, zonas heladas, cuevas, océano profundo y una región subterránea de estilo Aberration.\n\n<RichColor Color=\"1,0.8,0,1\">Destacados:</>\n- Deinonychus y sus nidos.\n- Megaraptor, nueva criatura tameable de ASA.\n- Ice Golem y Chalk Golem.\n- Boss Grendel.\n- Zonas de exploración, recursos y bases muy variadas.\n- Nueva Zona Aberrante con mucho por explorar.\n\nIdeal para aventura, crianza, farmeo y bases con mucha verticalidad."
+          }
+        ]
+      },
+      {
+        "layout": 2,
+        "buttontext": "<RichColor Color=\"1,0,0,1\">EL CATACLISMO</>",
+        "imageurl": "https://i.imgur.com/awXbdgN.jpeg",
+        "content": [
+          {
+            "title": "<RichColor Color=\"1,1,0,1\">¿Qué es el Cataclismo Masivo en HyM?</>",
+            "text": "<RichColor Color=\"1,0.3,0.3,1\">El Cataclismo de Estructuras</> es un sistema de limpieza automática que elimina estructuras abandonadas o sin protección activa.\n\nEn <RichColor Color=\"0,1,0.5,1\">Historias y Mates</> lo usamos para mantener los mapas limpios, ordenados y jugables para todos.\n\n<RichColor Color=\"1,0.8,0,1\">¿Cada cuánto ocurre?</>\nLas estructuras pueden permanecer hasta <RichColor Color=\"1,1,0,1\">7 días sin protección</>. Pasado ese tiempo, si no están protegidas correctamente, pueden ser eliminadas.\n\n<RichColor Color=\"0,1,1,1\">¿Por qué lo hacemos?</>\n- Evita bases abandonadas ocupando espacio.\n- Mejora la experiencia de exploración.\n- Mantiene zonas libres para nuevos jugadores.\n- Ayuda a conservar un ambiente PvE más limpio y justo.\n\nNo es un castigo: es una herramienta para cuidar el cluster entre todos."
+          },
+          {
+            "title": "<RichColor Color=\"0.7,0.5,1,1\">¿Cómo proteger tu Base?</>",
+            "text": "Para evitar perder tus estructuras, usá el sistema de <RichColor Color=\"0.4,0.8,1,1\">Simple Base Protection</>.\n\nPodés comprar banderas de protección desde la tienda:\n\n<RichColor Color=\"1,0.8,0,1\">PC:</> abrí la tienda con <RichColor Color=\"0,1,1,1\">F2</>\n<RichColor Color=\"1,0.8,0,1\">Consola:</> ingresá desde el <RichColor Color=\"0,1,1,1\">menú radial</>\n\n<RichColor Color=\"1,1,0,1\">Banderas disponibles:</>\n- Small Base Protection: <RichColor Color=\"0,1,0.5,1\">100 puntos</>\n- Large Base Protection: <RichColor Color=\"0,1,0.5,1\">1000 puntos</>\n\n<RichColor Color=\"1,0.5,0,1\">Límite por tribu y por mapa:</>\n- 2 banderas Small\n- 2 banderas Large\n\n<RichColor Color=\"1,0.3,0.3,1\">Importante:</>\nSi tu base no está protegida, puede ser eliminada por el cataclismo después del período permitido.\n\nProtegé tu hogar, revisá tus banderas y seguí construyendo tu historia."
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "<RichColor Color=\"0.4,0.6,1,1\">Discord — Historias y Mates ASA PvE</>",
+        "url": "https://discord.gg/F4xc5c3tB2"
+      }
+    ],
+    "version": 2
+  }
+}
