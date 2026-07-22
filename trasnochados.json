@@ -1,0 +1,63 @@
+{
+  "WBUI2": {
+    "settings": {
+      "openbutton": 0,
+      "hideicon": false,
+      "hideiconafter": 60,
+      "iconurl": "https://i.imgur.com/0lwwKys.png",
+      "disableicontext": true,
+      "iconposition": 0,
+      "icontextcolor": 0,
+      "openonstart": true,
+      "openonstartonlynewplayers": false,
+      "updateinterval": 24
+    },
+    "tabs": [
+      {
+        "layout": 4,
+        "buttontext": "<RichColor Color=\"0.5,0,1,1\">INFO CLUSTER</>",
+        "imageurl": "https://i.imgur.com/awXbdgN.jpeg",
+        "content": [
+          {
+            "title": "<RichColor Color=\"0.55,0.20,0.97,1\">¡NUESTRA NUEVA INFRAESTRUCTURA!</>",
+            "text": "<RichColor Color=\"0.26,0.78,0.76,1\">TRASNOCHADOS YA FUNCIONA EN SU NUEVO SERVIDOR DEDICADO</>\n\nLa migración fue completada exitosamente y todo el progreso de la comunidad se encuentra protegido.\n\n<TextStyle.Orange>◆ 128 GB de memoria RAM\n◆ 32 núcleos de procesamiento\n◆ Conexión simétrica de 2 Gbps\n◆ Servidor dedicado con Windows Server</>\n\n<RichColor Color=\"0.44,0.27,0.91,1\">MIGRACIÓN COMPLETADA</>\n\n→ Personajes, criaturas, estructuras e inventarios conservados.\n→ Puntos y progreso de los jugadores restaurados.\n→ Mapas funcionando nuevamente dentro del cluster.\n→ Mayor capacidad para nuestros sistemas, mods y plugins.\n→ Mejor infraestructura para backups y tareas de mantenimiento.\n\nAprovechando esta nueva etapa también renovamos la tienda ingame, la economía, las guías, el Discord, la página web y nuestros sistemas vinculados.\n\n<RichColor Color=\"0.95,0.54,0.20,1\">Esta nueva infraestructura nos brinda una base más sólida para continuar creciendo, incorporar nuevos eventos y mejorar progresivamente la experiencia de toda la comunidad.</>\n\n<RichColor Color=\"0.95,0.90,0.73,1\">Gracias por acompañarnos en esta nueva etapa de Trasnochados ARK PvE.</>"
+          },
+          {
+            "title": "<RichColor Color=\"0,1,0,1\">¡NUESTROS MAPAS!</>",
+            "text": "<TextStyle.Violet>★ MAPAS FIJOS:</>\nAmissa ............. <TextStyle.Green>OPERATIVO</>\nTheIsland .......... <TextStyle.Green>OPERATIVO</>\nRagnarok ........... <TextStyle.Green>OPERATIVO</>\nAstraeos ........... <TextStyle.Green>OPERATIVO</>\nValguero ........... <TextStyle.Green>OPERATIVO</>\nAberration ......... <TextStyle.Green>OPERATIVO</>\nGenesis 1 .......... <TextStyle.Green>OPERATIVO</>\n\n<TextStyle.Yellow>★ MAPAS ROTATIVOS</>\nScorched Earth............. <TextStyle.Green>OPERATIVO</>\nExtinction ................ <TextStyle.Green>Proximo</>\nLost Colony................ <TextStyle.Green>Seguido de Extinction</>\n\nLos mapas rotativos rotan cada 12 dias. No dejes estructuras dentro porque se destruiran!\n\nSi encontrás algún error, reportalo al staff. ¡Estaremos atentos!"
+          },
+          {
+            "title": "<RichColor Color=\"0.26,0.78,0.76,1\">INFRAESTRUCTURA Y SISTEMAS</>",
+            "text": "<TextStyle.LightBlue>Servidor dedicado de alto rendimiento</>\nTrasnochados funciona sobre una infraestructura dedicada con <RichColor Color=\"0.95,0.54,0.20,1\">32 núcleos, 128 GB de RAM y conexión simétrica de 2 Gbps</>, preparada para brindar mayor estabilidad, capacidad y rendimiento a todo el cluster.\n\n<TextStyle.LightBlue>Gestión profesional del cluster</>\nUtilizamos herramientas de administración avanzadas para realizar actualizaciones, reinicios programados, copias de seguridad, monitoreo de recursos y mantenimiento seguro de los mapas.\n\n<TextStyle.LightBlue>Progreso protegido</>\nLos personajes, criaturas, estructuras, inventarios y datos importantes del servidor se encuentran respaldados. Nuestro objetivo es reducir al mínimo cualquier riesgo durante actualizaciones o tareas de mantenimiento.\n\n<TextStyle.LightBlue>Tienda ingame y economía conectada</>\nLa tienda por puntos vuelve a estar disponible dentro del juego, con precios actualizados y una economía alineada con nuestra tienda web y el mercado entre jugadores.\n\n<TextStyle.LightBlue>Integración con Discord</>\nVinculá tu personaje con tu cuenta de Discord para consultar información, sincronizar billeteras, reclamar recompensas, registrar tu cumpleaños y acceder a diferentes funciones comunitarias.\n\n<TextStyle.LightBlue>Casino y actividades</>\nDisfrutá del casino comunitario en The Island y de los juegos disponibles en Discord, utilizando tus puntos para participar, divertirte y conseguir recompensas.\n\n<TextStyle.LightBlue>Mercado entre jugadores</>\nEn The Island podés crear tu propio comercio utilizando las Trade Tables, publicar objetos o criaturas y vender incluso mientras estás desconectado.\n\n<TextStyle.LightBlue>Nuevos eventos automáticos</>\nEstamos preparando actividades especiales, eventos comunitarios y futuras bases raideables PvE con desafíos y botines para jugadores de todos los niveles.\n\n<RichColor Color=\"0.55,0.20,0.97,1\">Más estabilidad, más sistemas y más formas de disfrutar ARK junto a la comunidad.</>"
+          },
+          {
+            "title": "<RichColor Color=\"0.55,0.20,0.97,1\">NUEVA IDENTIDAD: TRASNOCHADOS</>",
+            "text": "¡Bienvenidos a <RichColor Color=\"0.55,0.20,0.97,1\">TRASNOCHADOS ARK PvE</>!\n\nComenzamos una nueva etapa con una identidad propia, nuevos sistemas y una comunidad preparada para seguir creciendo.\n\n→ Nuevo logo y mascota oficial: el <RichColor Color=\"0.26,0.78,0.76,1\">Grim Dodo</>.\n→ Guías e información del servidor actualizadas.\n→ Tiers y precios de criaturas reorganizados.\n→ Mercado, tienda web y economía renovados.\n→ Nuevas imágenes para rangos y membresías.\n→ Vinculación entre tu personaje y Discord.\n→ ¡Y muchas novedades más en camino!\n\nLeé las guías, recorré nuestro Discord y preparate para esta nueva aventura.\n\n<RichColor Color=\"0.95,0.90,0.73,1\">Donde dormir es opcional.</>"
+          }
+        ]
+      },
+      {
+        "layout": 2,
+        "buttontext": "<TextStyle.Red>REGLAS DE TRASNOCHE</>",
+        "imageurl": "https://i.imgur.com/awXbdgN.jpeg",
+        "content": [
+          {
+            "title": "<RichColor Color=\"0.26,0.78,0.76,1\">RESPETO, CONSTRUCCIÓN Y JUEGO LIMPIO</>",
+            "text": "<TextStyle.LightBlue>🔹 1. Respeto y convivencia</>\nARK se disfruta mejor en comunidad. Mantené siempre un trato respetuoso y evitá insultos, acoso, discriminación, provocaciones o actitudes tóxicas.\n\n→ No construyas demasiado cerca de otra tribu sin permiso.\n→ No bloquees accesos, caminos, terminales, zonas públicas, recursos ni puntos de aparición.\n→ No hagas spam de pilares, cimientos u otras estructuras para reservar terreno.\n→ Mantené libres cuevas, obeliscos y áreas públicas.\n\n<TextStyle.LightBlue>🔹 2. Construcción y límites de base</>\nConstruí con libertad, pero sin perjudicar a los demás ni al rendimiento del servidor.\n\n→ No está permitido construir en cuevas de artefactos ni bloquear sus accesos.\n→ Los ratholes están permitidos solo si no afectan recursos, accesos o la experiencia de otros jugadores.\n→ No bloquees spawns de jugadores, criaturas, misiones, jefes o eventos.\n→ Evitá granjas excesivas o zonas de crianza desproporcionadas.\n→ Las bases abandonadas o problemáticas pueden ser retiradas por el Staff.\n\n<TextStyle.LightBlue>🔹 3. Juego limpio</>\nTodos merecemos una experiencia PvE estable y justa.\n\n→ Cheats, hacks, macros abusivas y programas externos están prohibidos.\n→ No se permite duplicar, meshear, explotar bugs ni abusar de mecánicas no previstas.\n→ Si encontrás un error, reportalo mediante ticket.\n→ Solo están permitidos los mods oficiales del servidor."
+          },
+          {
+            "title": "<RichColor Color=\"0.95,0.54,0.20,1\">CHAT, TICKETS Y ESPÍRITU TRASNOCHADO</>",
+            "text": "<TextStyle.LightBlue>🔹 4. Nombres, tribus y chat</>\nLa comunicación también forma parte de la experiencia comunitaria.\n\n→ No se permiten nombres ofensivos, inapropiados, ilegibles o pensados para dificultar la moderación.\n→ Intentá mantener el mismo nombre de tribu en todos los mapas del cluster.\n→ En el chat global mantené un trato amigable y respetuoso.\n→ No hagas spam ni promociones otros servidores o comunidades.\n→ Usá los tickets para reportes, reclamos, consultas o problemas, siempre con claridad y respeto.\n\n<TextStyle.LightBlue>🔹 5. Espíritu Trasnochado</>\nMás que un servidor, queremos construir una comunidad sana y duradera.\n\n→ La comunidad está primero.\n→ Ayudamos a otros supervivientes.\n→ Fomentamos la construcción creativa.\n→ Disfrutamos la crianza, el comercio y la colección.\n→ Progresamos a nuestro propio ritmo.\n→ Jugamos PvE sin toxicidad.\n\n<RichColor Color=\"0.95,0.90,0.73,1\">Dormir es opcional, respetar no.</>"
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "<RichColor Color=\"0.4,0.6,1,1\">Discord — TRASNOCHADOS PvE</>",
+        "url": "https://discord.gg/egAd2TTCdq"
+      }
+    ],
+    "version": 2
+  }
+}
